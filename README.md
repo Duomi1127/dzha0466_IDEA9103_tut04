@@ -12,6 +12,7 @@ In *Howl's Moving Castle*,the fire demon Calcifer's animation displays vivid exp
 
 ### part2
 1. The below link is what I found to help me implement the coding technique for the small flame selected in Part 1.
+   
 👉[link text](https://openprocessing.org/sketch/2183938)👈
 
 
@@ -28,7 +29,7 @@ In *Howl's Moving Castle*,the fire demon Calcifer's animation displays vivid exp
 **Answer:**
 This code uses **colorMode()** to achieve layered transparency effects, which can be adjusted to a red scheme to fit the demon's theme. In the **draw() function**, switching to **blendMode(ADD)** enhances the brightness, making it more suitable for a fiery character. Keeping the **BLUR** and **POSTERIZE function** adds a soft glow effect to the animation. The **noise() function** simulates the demon’s dynamic movement, adding randomness and fluidity. In the **display() method**, replacing the ghost emoji(👻) with a flame emoji (🔥) creates a more fitting visual, and increasing the probability of its appearance enhances the overall fiery theme of the animation.
 
-**Acknowledgement**
+5. **Acknowledgement**
 *I acknowledge the use of the AI tools ChatGPT and Grammarly for assisting with translating texts, grammar, and written expression in this assignment.* 
 
 
